@@ -1,6 +1,0 @@
-Hi there
-
-We learnt today puppet basics
-
-and GIT basics
-
